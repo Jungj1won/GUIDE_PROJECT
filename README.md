@@ -20,7 +20,7 @@
 1.  GUIDE_PROJECT_PRACTICE : 데이터 전처리 과정의 주석 파일
 2.  GUIDE_CODE : 1번의 전체 코드 파일
 3.  GUIDE_FUNCTION_BASED_CODE : 전처리 과정을 함수 기반으로 처리한 코드 파일
-4.  GUIDE_FUNCTION_BASED_CODE_QUIZ : 3번 파일 기반 문제 입니다. <br>
+4.  GUIDE_FUNCTION_BASED_CODE_QUIZ : 3번 파일 기반 퀴즈 파일 <br>
      4-1. 3번 파일의 코드 부분에서 중요한 부분을 빈칸 처리 하였습니다. <br>
      4-2. markdown 영역의 과정과 문제를 읽고 빈칸을 채우시면 됩니다.  <br>
      4-3. 
